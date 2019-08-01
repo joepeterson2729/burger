@@ -1,8 +1,8 @@
 {
   "name": "burger",
   "version": "1.0.0",
-  "description": "app for class assignment",
-  "main": "burger.js",
+  "description": "burger homework assignment",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
